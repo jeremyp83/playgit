@@ -1,2 +1,6 @@
 init
 line2
+
+iji
+jijii
+iji'ji'
